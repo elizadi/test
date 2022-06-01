@@ -1,2 +1,2 @@
 # test
-Solved learning tasks in python
+Completed learning tasks in python
